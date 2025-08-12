@@ -1,0 +1,60 @@
+{
+  "name": "SassoStream VF/VOSTFR",
+  "description": "Dépôt CloudStream personnalisé pour animes et dramas VF/VOSTFR",
+  "version": 1,
+  "icon": "https://sasso.github.io/sasso-repo/logo.png",
+  "addons": [
+    {
+      "name": "VoirAnime",
+      "url": "https://sasso.github.io/sasso-repo/voiranime.cs3"
+    },
+    {
+      "name": "Anime Sama",
+      "url": "https://sasso.github.io/sasso-repo/animesama.cs3"
+    },
+    {
+      "name": "Franime",
+      "url": "https://sasso.github.io/sasso-repo/franime.cs3"
+    },
+    {
+      "name": "DramaCool",
+      "url": "https://sasso.github.io/sasso-repo/dramacool.cs3"
+    },
+    {
+      "name": "AsianLoad",
+      "url": "https://sasso.github.io/sasso-repo/asianload.cs3"
+    },
+    {
+      "name": "VoirDrama",
+      "url": "https://sasso.github.io/sasso-repo/voirdrama.cs3"
+    },
+    {
+      "name": "PapaDuStream",
+      "url": "https://sasso.github.io/sasso-repo/papadustream.cs3"
+    },
+    {
+      "name": "HDSS",
+      "url": "https://sasso.github.io/sasso-repo/hdss.cs3"
+    },
+    {
+      "name": "Flemmix",
+      "url": "https://sasso.github.io/sasso-repo/flemmix.cs3"
+    },
+    {
+      "name": "Coflix",
+      "url": "https://sasso.github.io/sasso-repo/coflix.cs3"
+    },
+    {
+      "name": "Senpai-Stream",
+      "url": "https://sasso.github.io/sasso-repo/senpai.cs3"
+    },
+    {
+      "name": "XalaFlix",
+      "url": "https://sasso.github.io/sasso-repo/xalaflix.cs3"
+    },
+    {
+      "name": "DramaPassion",
+      "url": "https://sasso.github.io/sasso-repo/dramapassion.cs3"
+    }
+  ]
+}
